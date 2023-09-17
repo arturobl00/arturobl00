@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hola actualmente de desempeño como Docente de tiempo completo en el TECNM campus ajalpan, soy integrador de soluciones digitales para empresas y hogar, me encanta el desarrollo web y móvil, tengo una familia genial que lo son todo para mí y me gusta mucho ser docente.<br>
+⚒️ Trabajo en TECNM Campus Ajalpan<br>👯 Busco desarrollo y proyectos enfocados a Web y Móvil<br>🤝 Estoy disponible para colaborar principalmente en React y Flutter<br>🌱 Actualmente estoy estudiando Tailwind CSS<br>📡 Mi gusto profesional son las Telecomunicaciones <br>🎖️Desarrollo De Apps Móviles – Universidad Complutense De Madrid.<br>🎖️Ciberseguridad Laboral – Incibe Instituto Nacional De Ciberseguridad España.<br>🎖️Diseño De Marketing Digital – Endorsed Europe – The Open University<br>🎖️Competencias Digitales Para Profesionales – Fundación Santa María La Real.<br>🎖️Desarrollo De Aplicaciones Web - The Open University United Kingdom.<br>🎖️Desarrollo Web - La Universidad De Alicante España<br>🎖️Desarrollo De Sistemas Web – Instituto De Economia Internacional<br>🎖️Full Stack Open - La Universidad De Helsinki Filandia<br>🎖️Front End Development Libraries - Freecodecamp.Org<br>🎖️Cisco - Networking Basics <br>🎖️Oracle Mysql Explorer<br>🎖️Transfomación Digital Para El Empleo – Escuela De Organización Industrial España<br>🎖️Cloud Computing – Red Es<br>🎖️Cisco - Networking Devices And Initial Configuration<br>🎖️Cisco – Network Addressing And_Basic Troubleshooting Badge<br>🎖️Desarrollo Web 2 – La Universidad De Alicante España<br>
 
 
 ## 🌐 Socials:
